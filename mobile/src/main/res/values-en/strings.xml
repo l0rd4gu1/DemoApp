@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="button">Button</string>
+    <string name="onClickOperar">Do It</string>
+    <string name="radioDivision">Division</string>
+    <string name="radioMultiplicacion">Multiplication</string>
+    <string name="radioResta">Substract</string>
+    <string name="radioSuma">Add</string>
+    <string name="textoInformacion">Select the kind of operation to perform between the two numbers</string>
+</resources>
